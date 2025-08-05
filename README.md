@@ -11,3 +11,4 @@ Proof-of-concept repository for the MA project
 
 © 2025 Leano Di Bello – All rights reserved.  
 Contact leanodb@gmail.com for permission.
+10.5281/zenodo.16743667
